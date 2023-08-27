@@ -5,10 +5,12 @@
 5 
 6 Creado menu con opciones
 7
-8 Slider con 5 imagenes
+8 Slider con 4 imagenes
 9
-10 Servicios con tres tarjetas
+10 Servicios con Seis tarjetas
 11
-12 Llamada a ua accion
+12 Mostrar los logos de los auspiciadores 
 13
-14 Pie de pagina
+14 Fotos de los ejecutivos de la empresa
+15
+Pie de pagina

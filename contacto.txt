@@ -6,4 +6,8 @@
 6
 7 Incluido un mapa de la ubicacion de la empresa
 8
-9 Incluido el pie de pagina
+9 Actualizado el correo electronico
+10
+11 Los telefonos de referencia 
+12
+13 Incluido el pie de pagina
