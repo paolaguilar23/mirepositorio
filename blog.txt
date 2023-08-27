@@ -1,0 +1,8 @@
+1 Blog
+2 ------
+3
+4 Incluida la cabecera
+5
+6 Seccion que muestra las entradas y posts creados para el sitio
+7
+8 Incluido el pie
