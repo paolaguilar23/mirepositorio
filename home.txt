@@ -1,0 +1,14 @@
+1 Pagina Principal
+2 ----------------------
+3 
+4 Logo y la opcion de buscar
+5 
+6 Creado menu con opciones
+7
+8 Slider con 5 imagenes
+9
+10 Servicios con tres tarjetas
+11
+12 Llamada a ua accion
+13
+14 Pie de pagina

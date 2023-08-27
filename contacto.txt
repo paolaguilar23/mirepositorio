@@ -1,0 +1,9 @@
+1 Contacto
+2 ---------
+3 Incluido la cabecera
+4
+5 Formulario para recibir consultas
+6
+7 Incluido un mapa de la ubicacion de la empresa
+8
+9 Incluido el pie de pagina
